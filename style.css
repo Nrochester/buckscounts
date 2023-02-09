@@ -24,7 +24,7 @@
 /* your code */
 body {
   display: flex;
-  border: solid salmon;
+  border: 5px solid salmon;
   flex-direction: column;
   background-color: #1e3932;
 }
